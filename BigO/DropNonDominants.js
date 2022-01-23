@@ -1,6 +1,6 @@
 function printAllPairs(nums) {
-    console.log('These are the numbers:');
     // O(n)
+    console.log('These are the numbers:');
     nums.forEach((num) => {
         console.log(num)
     });
